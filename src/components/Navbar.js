@@ -15,7 +15,7 @@ const Navbar = () => {
           <Link className="nav-link" to="/dashboard">
             Dashboard
           </Link>
-          <Link className="nav-link" to="/">
+          <Link className="nav-link" to="/login">
             Sign In
           </Link>
           <Link className="nav-link" to="/register">
